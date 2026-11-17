@@ -1,0 +1,16 @@
+{
+  "name": "Lancer Comms",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "author": "Random",
+  "icon": "/logo.png",
+  "description": "Send dialogue boxes, notices and range-based speech bubbles to your players, in a Lancer HUD style.",
+  "background_url": "/background.html",
+  "action": {
+    "title": "Lancer Comms",
+    "icon": "/icon.svg",
+    "popover": "/index.html",
+    "height": 660,
+    "width": 360
+  }
+}
